@@ -12,6 +12,7 @@ if has("gui_running")
     set guioptions=aiA	" Disable toolbar, menu bar, scroll bars
 endif
 colorscheme wombat
+set expandtab
 set softtabstop=4
 set shiftwidth=4
 set nu
